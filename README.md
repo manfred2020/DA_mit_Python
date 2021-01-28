@@ -1,8 +1,8 @@
-[![Generic badge](https://img.shields.io/badge/Status-Under_Construction-gold.svg)]
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-limegreen.svg)]
-[![Generic badge](https://img.shields.io/badge/Chapters_online-1_of_21-lightskyblue.svg)]
+[![Generic badge](https://img.shields.io/badge/Status-Under_Construction-gold.svg)](https://github.com/manfred2020/DA_mit_Python)
+[![Maintenance](https://img.shields.io/badge/Maintained-Yes-limegreen.svg)](https://github.com/manfred2020/DA_mit_Python)
+[![Generic badge](https://img.shields.io/badge/Chapters_online-1_of_21-lightskyblue.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)]
+[![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
 
 
 # Datenanalyse mit Python
