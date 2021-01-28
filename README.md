@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/Status-Under_Construction-gold.svg)](https://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-limegreen.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Generic badge](https://img.shields.io/badge/Kapitel_online-2_von_25-lightskyblue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Kapitel_online-1_von_21-lightskyblue.svg)](https://shields.io/)
 
 
 # Datenanalyse mit Python
