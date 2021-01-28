@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
 
 
-# Datenanalyse mit Python
+## Datenanalyse mit Python
 
 
 ### Inhaltsübersicht
