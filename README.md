@@ -13,6 +13,8 @@
 
 [Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
+[Kapitel 3: Fehlende Werte, Werte außerhalb des Skalenbereichs, Zeilenduplikate](https://github.com/manfred2020/DA_mit_Python/blob/main/Kapitel%203/3_Fehlende%20Werte_Werte%20au%C3%9Ferhalb%20des%20Skalenbereichs_Zeilenduplikate.ipynb)
+
 <br>
 
 Weitere Kapitel (in Summe über 20) werden folgen. Ev. ein Kapitel pro Woche oder so...
