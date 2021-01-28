@@ -21,7 +21,7 @@ Kapitel 4: hier kommt bald was...
 
 <br>
 
-Weitere Kapitel (in Summe über 20) werden folgen. Ev. ein Kapitel pro Woche oder so...
+Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder so... Die meisten Kapitel sind fertig, bedürfen jedoch noch einer Durchsicht und Überprüfung, bevor sie hochgeladen werden.
 
 <br>
 
