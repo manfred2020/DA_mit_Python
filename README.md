@@ -1,6 +1,6 @@
 [![Generic badge](https://img.shields.io/badge/Status-Under_Construction-gold.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-limegreen.svg)](https://github.com/manfred2020/DA_mit_Python)
-[![Generic badge](https://img.shields.io/badge/Chapters_online-1_of_21-lightskyblue.svg)](https://github.com/manfred2020/DA_mit_Python)
+[![Generic badge](https://img.shields.io/badge/Chapters_online-2_of_21-lightskyblue.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
 
@@ -10,6 +10,8 @@
 
 ### Inhaltsübersicht
 
+
+[Kapitel 1: Grundlagen...]
 
 [Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
