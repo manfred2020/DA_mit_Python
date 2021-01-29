@@ -23,8 +23,8 @@ Kapitel 4: hier kommt bald was...
 
 Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder so... Die meisten Kapitel sind fertig, bedürfen jedoch noch einer Durchsicht und Überprüfung, bevor sie hochgeladen werden.
 
-Die Juypter Notebooks werden mit [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
-angezeigt (Links zu den einzelnen Kapiteln am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen.
+Die einzelnen Kapitel liegen als Juypter Notebooks vor und werden mit [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
+im Browser angezeigt (die Links am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen.
 
 <br>
 <br>
