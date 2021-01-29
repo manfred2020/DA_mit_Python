@@ -3,6 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/Chapters_online-2_of_21-lightskyblue.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
+[![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
 
 
 # Datenanalyse mit Python
@@ -23,10 +24,9 @@ Kapitel 4: hier kommt bald was...
 
 Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder so... Die meisten Kapitel sind fertig, bedürfen jedoch noch einer Durchsicht und Überprüfung, bevor sie hochgeladen werden.
 
-Die einzelnen Kapitel liegen als Juypter Notebooks vor und werden mit [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
-im Browser angezeigt (die Links am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen.
+Die einzelnen Kapitel liegen als **Juypter Notebooks** vor und werden mit **nbviewer** im Browser angezeigt (die Links am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen.
 
-Neben dieser Ansicht der Notebooks ist es auch möglich, die Notebooks interaktiv über den Browser durchzuarbeiten. Dazu einfach in der nbviewer Ansicht rechts oben auf das "Execute on Binder" Symbol (die drei roten Ringe) klicken (vgl. folgenden Screenshot aus Firefox).
+Neben dieser Ansicht der Notebooks ist es auch möglich, die Notebooks interaktiv über den Browser durchzuarbeiten. Dazu einfach in der nbviewer Ansicht rechts oben auf das *Execute on Binder* Symbol (die drei roten Ringe) klicken (vgl. folgenden Screenshot aus Firefox).
 
 ![Screenshot nbviewer](binder.png)
 
