@@ -26,7 +26,7 @@ Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder
 
 Die einzelnen Kapitel liegen als **Juypter Notebooks** vor und werden mit **nbviewer** im Browser angezeigt (die Links am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen.
 
-Neben dieser Ansicht der Notebooks ist es auch möglich, die Notebooks interaktiv über den Browser durchzuarbeiten. Dazu einfach in der nbviewer Ansicht rechts oben auf das *Execute on Binder* Symbol (die drei roten Ringe) klicken (vgl. folgenden Screenshot aus Firefox).
+Neben dieser Ansicht der Notebooks wird es künftig auch möglich sein, die Notebooks interaktiv über den Browser durchzuarbeiten. Dazu dann einfach in der nbviewer Ansicht rechts oben auf das *Execute on Binder* Symbol (die drei roten Ringe) klicken (vgl. folgenden Screenshot aus Firefox).
 
 ![Screenshot nbviewer](binder.png)
 
