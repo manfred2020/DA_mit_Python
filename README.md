@@ -14,11 +14,11 @@
 
 Kapitel 1: Grundlagen... (kommt noch)
 
-[Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb?flush_cache=true)
+[Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
-[Kapitel 3: Fehlende Werte, Werte außerhalb des Skalenbereichs, Zeilenduplikate](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%203/3_Fehlende%20Werte_Werte%20au%C3%9Ferhalb%20des%20Skalenbereichs_Zeilenduplikate.ipynb?flush_cache=true)
+[Kapitel 3: Fehlende Werte, Werte außerhalb des Skalenbereichs, Zeilenduplikate](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%203/3_Fehlende%20Werte_Werte%20au%C3%9Ferhalb%20des%20Skalenbereichs_Zeilenduplikate.ipynb)
 
-[Kapitel 4: Daten laden und Dataframe Basisinfos](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%204/4_Daten%20laden%20und%20Dataframe%20Basisinfos.ipynb?flush_cache=true)
+[Kapitel 4: Daten laden und Dataframe Basisinfos](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%204/4_Daten%20laden%20und%20Dataframe%20Basisinfos.ipynb)
 
 Kapitel 5: hier kommt bald was...
 
