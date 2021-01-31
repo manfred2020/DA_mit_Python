@@ -38,7 +38,11 @@ Neben dieser Ansicht der Notebooks wird es künftig auch möglich sein, die Note
 ### Hintergrundinfo
 Im Jahr 2019 habe ich wiedermal damit begonnen, mich mit Python zu befassen. Diesmal aber nicht - wie 10 Jahre zuvor schon mal - zum Zweck der Programmierung, sondern zum Zweck der Datenvisualisierung, in weiterer Folge dann auch der Datenbearbeitung und statistischen Datenanalyse.
 
-So entstanden im Lauf der Zeit zahlreiche Codezeilen, Scripts, Vorlagen für div. Grafiken bzw. Analysen - irgendwann dachte ich, daraus ließe sich wohl eine Art Skriptum machen. Das passiert nun auch. Hier auf Github finden sich Jupyter Notebooks zu den einzelnen Kapiteln des Skriptums (inkl. fallweise nötiger Datenfiles oder sonstiger Dateien). Das Skriptum selbst wird daneben als PDF zusammengestellt und zu gegebener Zeit online gestellt.
+So entstanden im Lauf der Zeit zahlreiche Codezeilen, Scripts, Vorlagen für div. Grafiken bzw. Analysen - irgendwann dachte ich, daraus ließe sich wohl eine Art Skriptum machen. Vor allem natürlich als Nachschlagewerk für mich selbst - im Gegensatz zu gebräuchlicher Statistiksoftware wie SPSS (da gibt's Literatur zu Hauf) oder R (auch da gibt's mittlerweile so einiges), findet sich zur (sozialwissenschaftlichen) Datenanalyse mit Python noch nicht viel.
+
+Das Skriptum nimmt langsam aber sicher Form an. Hier auf Github finden sich Jupyter Notebooks zu den einzelnen Kapiteln des Skriptums (inkl. fallweise nötiger Datenfiles oder sonstiger Dateien). Das Skriptum selbst wird daneben als PDF zusammengestellt und zu gegebener Zeit online gestellt.
+
+WICHTIG: All das hier ist kein Programmierkurs bzw. keine umfangreiche Einführung in Python. Ziel ist, div. Module von Python (bspw. Pandas, Statsmodels, Matplotlib, Seaborn und viele weitere) vorzustellen, die sich mit Datenbearbeitung, statistischer Datenanalyse und Visualiserung befassen. Auch wird - vorerst - nicht auf Aspekte es Machine Learnings oder Deep Learnings (hier bietet Python einiges) eingegangen; behandelt werden vielmehr typische sozialwissenschaftliche Verfahren, wie man sie aus den üblichen Statistikprogrammen kennt (Korrelation, T-Tests, Regression, Varianzanalysen, usw.). Begonnen wird aber natürlich mit dem Import von Daten, der Datenbearbeitung, deskriptiven Auswertungen usw.
 
 <br>
 
