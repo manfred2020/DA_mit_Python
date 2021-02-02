@@ -34,7 +34,7 @@ Kapitel 9: Variablen berechnen
 
 Kapitel 10: Variablen bzw. Dataframes transformieren
 
-Kapitel 11: Einfach grafische Datenanalyse
+Kapitel 11: Einfache grafische Datenanalyse
 
 Kapitel 12: Mehrfachantwortensets
 
