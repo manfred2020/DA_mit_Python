@@ -14,6 +14,8 @@
 
 Kapitel 1: Grundlagen... (kommt noch)
 
+#### Schwerpunkt: Pandas
+
 [Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
 [Kapitel 3: Fehlende Werte, Werte außerhalb des Skalenbereichs, Zeilenduplikate](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%203/3_Fehlende%20Werte_Werte%20au%C3%9Ferhalb%20des%20Skalenbereichs_Zeilenduplikate.ipynb)
@@ -22,7 +24,23 @@ Kapitel 1: Grundlagen... (kommt noch)
 
 [Kapitel 5: Deskriptive Analyse](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%205/5_Deskriptive%20Analyse.ipynb)
 
-Kapitel 6: hier kommt bald was...
+Kapitel 6: Daten gruppieren, sortieren, filtern
+
+Kapitel 7: Kreuztabellierung
+
+Kapitel 8: Variablen umkodieren
+
+Kapitel 9: Variablen berechnen
+
+Kapitel 10: Variablen bzw. Dataframes transformieren
+
+Kapitel 11: Einfach grafische Datenanalyse
+
+Kapitel 12: Mehrfachantwortensets
+
+#### Schwerpunkt: Spezifische Module zur statistischen Datenanalyse und Visualierung
+
+Kapitel 13: ...
 
 <br>
 
