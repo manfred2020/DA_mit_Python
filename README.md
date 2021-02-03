@@ -14,7 +14,7 @@
 
 Kapitel 1: Grundlagen... (kommt noch)
 
-#### Schwerpunkt: Pandas
+#### Schwerpunkt: Pandas :panda_face:
 
 [Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
