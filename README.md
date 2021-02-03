@@ -6,7 +6,8 @@
 [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
 
 
-# Datenanalyse mit Python
+
+# Datenanalyse mit Python <img  style="float:right; vertical-align:middle" src="https://www.pinclipart.com/picdir/big/342-3427434_kung-fu-panda-clipart.png" width="200">
 
 
 ### Inhaltsübersicht
