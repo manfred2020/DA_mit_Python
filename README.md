@@ -5,13 +5,9 @@
 [![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
 
-
-
-# Datenanalyse mit Python <img  style="float:right; vertical-align:middle" src="https://www.pinclipart.com/picdir/big/342-3427434_kung-fu-panda-clipart.png" width="200">
-
+# Datenanalyse mit Python <img  src="https://www.pinclipart.com/picdir/big/342-3427434_kung-fu-panda-clipart.png" width="100">
 
 ### Inhaltsübersicht
-
 
 Kapitel 1: Grundlagen... (kommt noch)
 
