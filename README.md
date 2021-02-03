@@ -5,13 +5,13 @@
 [![Generic badge](https://img.shields.io/badge/©-2019&#8211;2021-black.svg)](https://github.com/manfred2020/DA_mit_Python)
 [![Generic badge](https://img.shields.io/badge/nbviewer-A_simple_way_to_share_Jupyter_Notebooks-orange.svg)](https://nbviewer.jupyter.org)
 
-# Datenanalyse mit Python <img  src="https://www.pinclipart.com/picdir/big/342-3427434_kung-fu-panda-clipart.png" width="100">
+# Datenanalyse mit Python
 
 ### Inhaltsübersicht
 
 Kapitel 1: Grundlagen... (kommt noch)
 
-#### Schwerpunkt: Pandas :panda_face:
+#### Schwerpunkt: Pandas
 
 [Kapitel 2: Dataframe erstellen und speichern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%202/2_Dataframe%20erstellen%20und%20speichern.ipynb)
 
