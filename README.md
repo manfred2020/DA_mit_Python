@@ -21,7 +21,7 @@ Kapitel 1: Grundlagen... (kommt noch)
 
 [Kapitel 5: Deskriptive Analyse](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%205/5_Deskriptive%20Analyse.ipynb)
 
-Kapitel 6: Daten gruppieren, sortieren, filtern
+[Kapitel 6: Daten gruppieren, sortieren, filtern](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%206/6_Daten%20gruppieren_sortieren_filtern.ipynb)
 
 Kapitel 7: Kreuztabellierung
 
