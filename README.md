@@ -35,7 +35,7 @@ Kapitel 11: Einfache grafische Datenanalyse
 
 Kapitel 12: Mehrfachantwortensets
 
-#### Schwerpunkt: Spezifische Module zur statistischen Datenanalyse und Visualierung
+#### Schwerpunkt: Spezifische Module zur statistischen Datenanalyse und Visualisierung
 
 Kapitel 13: ...
 
