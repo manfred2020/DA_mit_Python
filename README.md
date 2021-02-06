@@ -7,7 +7,7 @@
 
 # Datenanalyse mit Python
 
-[Inhaltsübersicht](#Inhaltsübersicht) [Infos zu den Inhalten](#Infos%20zu%20den%20Inhalten)
+[Inhaltsübersicht](#Inhaltsübersicht) [Infos zu den Inhalten](#Infos-zu-den-Inhalten)
 
 ### Inhaltsübersicht
 
