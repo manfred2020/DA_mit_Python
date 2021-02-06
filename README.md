@@ -43,6 +43,8 @@ Kapitel 13: ...
 
 <br>
 
+### Infos zu den Inhalten
+
 Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder so... Die meisten Kapitel sind fertig, bedürfen jedoch noch einer Durchsicht und Überprüfung, bevor sie hochgeladen werden.
 
 Die einzelnen Kapitel liegen als **Jupyter Notebooks** vor und werden mit **nbviewer** im Browser angezeigt (die Links am besten in neuem Tab öffnen). Bis eine hier auf GitHub aktualisierte Version eines Notebooks im nbviewer korrekt angezeigt wird, können einige Stunden vergehen (manchmal auch mehr als ein Tag).
