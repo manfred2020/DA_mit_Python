@@ -57,7 +57,7 @@ Neben dieser Ansicht der Notebooks wird es künftig auch möglich sein, die Note
 
 ![Screenshot nbviewer](binder.png)
 
-/ [zum Anfang](#Datenanalyse-mit-Python) /
+/ [zum Anfang](#readme) /
 
 <br>
 <br>
@@ -82,7 +82,7 @@ Feedback jederzeit möglich!
 
 **Answer:** *Because there's enough literature, enough code, enough manuals, etc. in english about data analysis and data visualisation with python available. Not so in german.*
 
-/ [zum Anfang](#Datenanalyse-mit-Python) /
+/ [zum Anfang](#readme) /
 
 <br>
 <br>
