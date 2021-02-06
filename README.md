@@ -43,7 +43,7 @@ Kapitel 12: Mehrfachantwortensets
 
 Kapitel 13: ...
 
-/ [zum Anfang](#Datenanalyse-mit-Python) /
+/ [zum Anfang](#readme) /
 
 <br>
 
