@@ -43,7 +43,7 @@ Kapitel 13: ...
 
 <br>
 
-### Infos zu den Inhalten
+### Infos%20zu%20den%20Inhalten
 
 Weitere Kapitel (in Summe wohl 21) werden folgen. Ev. ein Kapitel pro Woche oder so... Die meisten Kapitel sind fertig, bedürfen jedoch noch einer Durchsicht und Überprüfung, bevor sie hochgeladen werden.
 
