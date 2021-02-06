@@ -43,6 +43,8 @@ Kapitel 12: Mehrfachantwortensets
 
 Kapitel 13: ...
 
+/ [zum Anfang](#Datenanalyse-mit-Python) /
+
 <br>
 
 ### Infos zu den Inhalten
@@ -54,6 +56,8 @@ Die einzelnen Kapitel liegen als **Jupyter Notebooks** vor und werden mit **nbvi
 Neben dieser Ansicht der Notebooks wird es künftig auch möglich sein, die Notebooks interaktiv über den Browser durchzuarbeiten. Dazu dann einfach in der nbviewer Ansicht rechts oben auf das *Execute on Binder* Symbol (die drei roten Ringe) klicken (vgl. folgenden Screenshot aus Firefox).
 
 ![Screenshot nbviewer](binder.png)
+
+/ [zum Anfang](#Datenanalyse-mit-Python) /
 
 <br>
 <br>
