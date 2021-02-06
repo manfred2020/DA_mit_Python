@@ -7,6 +7,8 @@
 
 # Datenanalyse mit Python
 
+[Inhaltsübersicht](#Inhaltsübersicht) [Infos zu den Inhalten](#Infos zu den Inhalten)
+
 ### Inhaltsübersicht
 
 Kapitel 1: Grundlagen... (kommt noch)
