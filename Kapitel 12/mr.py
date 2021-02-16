@@ -46,7 +46,7 @@ def mr(df, *col, count = 1, save = False):
         columns.append(col) # alle eingegebenen Variablen in Liste einfügen
         
     length = len(df.index) # Anzahl der Zeilen im Dataframe ermitteln
-    width = len(df.columns) # Anzahl der Variablen im Dataframe ermitteln
+    width = len(columns) # Anzahl der ausgewählten Variablen ermitteln
     cells = (length*width) # Anzahl der Zellen im Dataframe ermitteln
     
     mr_set = (df[columns] == count).sum(axis = 0).sort_values(ascending = True) # eine Basisauswertung, zwecks der Reihenfolge für alle weiteren
