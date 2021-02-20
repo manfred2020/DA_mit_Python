@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Feb 16 23:01:33 2021
-
-Function:
+Functions:
     mr - multiple response
+    cv - count values (upcoming)
     
 Author:
     Manfred Hammerl
@@ -12,16 +11,18 @@ https://github.com/manfred2020
 
 """
 
-__version__ = "0.1.0, from 16th February 2021"
+__version__ = "0.1.1, from 20th February 2021"
 
-def mr(df, *col, count = 1, save = False):
+def mr(df, *col, count = 1, save = False, jup=True):
     
     """
     NAME:
-        mr (multiple response)
+        mr - multiple response
     
     DESCRIPTION:
-        eine kleine Funktion zur Auswertung von Mehrfachantworten
+        Eine kleine Funktion zur Auswertung von Mehrfachantworten, welche
+        ein Balkendiagramm ausgibt sowie eine Tabelle (Dataframe) mit den 
+        Ergebnissen der Auswertung
         
     Parameters:
         df : Dataframe
@@ -31,10 +32,17 @@ def mr(df, *col, count = 1, save = False):
                 Wert, der gezählt/ausgewertet werden soll
         save : bool
                True: Outputtabelle wird in Zwischenablage kopiert
-               False: Outputtabelle wird nicht in Zwischenablage kopiert (default)
+               False: Outputtabelle wird nicht in Zwischenablage kopiert
+               (default)
+        jup : bool
+              True: Funktion wird in Juypter Notebook aufgerufen,
+                    "gestylte" Outputtabelle (Dataframe) wird angezeigt (default)
+              False: Funktion wird nicht in Jupyter Notebook aufgerufen, sondern
+                     bspw. in Sypder.
+                     "normale" Outputtabelle (Dataframe) wird angezeigt.
     
     Returns:
-        Dataframe und Grafik
+        Dataframe
         
     """
     
@@ -44,36 +52,42 @@ def mr(df, *col, count = 1, save = False):
     
     for col in col:
         columns.append(col) # alle eingegebenen Variablen in Liste einfügen
-        
+    
+    mrcount = (df[columns] == count).sum(axis = 0).sort_values(ascending = True)
+    # die erste Basisauswertung; sie bestimmt auch die Anzeigereihenfolge
+    mrsum = mrcount.sum(axis = 0)
+    # Summe der insgesamt abgegebenen Antworten ermitteln
     length = len(df.index) # Anzahl der Zeilen im Dataframe ermitteln
     width = len(columns) # Anzahl der ausgewählten Variablen ermitteln
     cells = (length*width) # Anzahl der Zellen im Dataframe ermitteln
-    
-    mr_set = (df[columns] == count).sum(axis = 0).sort_values(ascending = True) # eine Basisauswertung, zwecks der Reihenfolge für alle weiteren
-    mrset = mr_set.sum(axis = 0) # Summe der gesamt abgegebenen Antworten ermitteln
-    
-    finalset = pd.DataFrame({"Anzahl d Nennungen" : mr_set,
-                          "Prozent" : ((mr_set/length)*100).round(2),
-                          "Prozent d mögl. Nennungen" : ((mr_set/cells)*100).round(2),
-                          "Prozent d tatsächl. Nennungen" : ((mr_set/(mrset))*100).round(2)}).fillna(0) # fillna() wegen Division durch 0
         
-    style = finalset.style.format({"Anzahl d Nennungen" : "{:.0f}",
-                              'Prozent' : '{:.1f}%',
-                              "Prozent d mögl. Nennungen" : "{:.1f}%",
-                              "Prozent d tatsächl. Nennungen" : "{:.1f}%"})
+    finalset = pd.DataFrame({"Anz Nennungen" : mrcount,
+                          "% Befragte" : ((mrcount/length)*100).round(2),
+                          "% mögl Nennungen" : ((mrcount/cells)*100).round(2),
+                          "% tatsächl Nennungen" : ((mrcount/(mrsum))*100).round(2)}
+                            ).fillna(0)
+    # fillna() wegen möglicher Division durch 0
+        
+    style = finalset.style.format({"Anz Nennungen" : "{:.0f}",
+                              '% Befragte' : '{:.1f}%',
+                              "% mögl Nennungen" : "{:.1f}%",
+                              "% tatsächl Nennungen" : "{:.1f}%"})
     
     if save:
         finalset.to_clipboard(decimal = ",")
-        print("Ergebnistabelle wurde in die Zwischenablage zur weiteren Verwendung kopiert")
+        # ',' als Dezimaltrennzeichen im deutschsprachigen Raum
+        print("\nErgebnistabelle wurde in die Zwischenablage zur weiteren Verwendung kopiert\n")
         
-    if mrset > 0:
+    if mrsum > 0:
         import matplotlib.pyplot as plt    
-        from matplotlib.ticker import FormatStrFormatter    
-        ax = finalset[['Prozent d mögl. Nennungen', 'Prozent d tatsächl. Nennungen',
-                       'Prozent']].plot.barh(figsize=(8.5,4.5))    
+        from matplotlib.ticker import FormatStrFormatter
+        ax = finalset[['% mögl Nennungen', '% tatsächl Nennungen',
+                       '% Befragte']].plot.barh(figsize=(8.5,4.5))    
         ax.xaxis.set_major_formatter(FormatStrFormatter('%.f%%'))
         plt.legend(loc='lower right')
     
-    from IPython.display import display
-    
-    return display(style)
+    if jup == True:
+        from IPython.display import display
+        return display(style)
+    else:
+        return finalset
