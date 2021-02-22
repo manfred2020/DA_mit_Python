@@ -7,6 +7,8 @@
 
 # Datenanalyse mit Python
 
+Datenaufbereitung, Datenbearbeitung, Datenvisualisierung und statistische Datenanalyse mit Python
+
 / [Inhaltsübersicht](#Inhaltsübersicht) / [Infos zu den Inhalten](#Infos-zu-den-Inhalten) /
 
 <br>
