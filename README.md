@@ -37,7 +37,7 @@ Kapitel 1: Grundlagen... (kommt noch)
 
 Kapitel 10: Variablen bzw. Dataframes transformieren
 
-Kapitel 11: Einfache grafische Datenanalyse
+[Kapitel 11: Einfache grafische Datenanalyse](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%2011/11_Grafische%20Datenanalyse.ipynb)
 
 [Kapitel 12: Mehrfachantworten auswerten](https://nbviewer.jupyter.org/github/manfred2020/DA_mit_Python/blob/main/Kapitel%2012/12_Mehrfachantwortensets.ipynb)
 
